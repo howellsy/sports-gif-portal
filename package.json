@@ -1,17 +1,19 @@
 {
-  "name": "buildspace-solana",
+  "name": "sports-gif-portal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@project-serum/anchor": "^0.18.0",
-    "@solana/web3.js": "^1.30.2",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
+    "@project-serum/anchor": "^0.18.2",
+    "@solana/web3.js": "^1.66.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,2 +1,8 @@
+build
+dist
 node_modules
+target
+test-ledger
+.anchor
 .DS_STORE
+**/*.rs.bk
